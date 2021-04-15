@@ -7,27 +7,27 @@ const questions = [
   },
   {
     id: 2,
-    title: 'How do I change my My Page password?',
+    title: 'Is this stuff OK for kids to watch?',
     info:
-      'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
+      'It depends. Some movies, yes (for example Ponyo). Others, definitely not. Check out the content notes of the reviews here to get detailed information about what to expect, and the box will usually have a mention of the content in the small print on the back somewhere, as well as an age recommendation. In any case, always keep an eye on what kids watch, especially when it comes to anime.',
   },
   {
     id: 3,
-    title: 'What is BankID?',
+    title: 'Who created anime, and when?',
     info:
-      'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
+      'The art form we now call "anime" doesn\'t have a specific birthdate, and it wasn\'t exactly created by anyone. But, partly as a result of being either the first or among the first to use the big-eyed style, Tezuka Osamu is generally considered the "father" of anime. He started creating comics in 1947, which were extremely popular, and at the beginning of 1963 Tetsuwan Atomu (known outside Japan as Astro Boy) began airing. That is generally considered the first anime-style animated production. Animation had been produced in Japan as early as 1917, but the style was generally different from what is now considered anime.',
   },
   {
     id: 4,
-    title: 'Whose birth number can I use?',
+    title: 'How, exactly, do you pronounce "anime"?',
     info:
-      'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
+      'The easiest way to figure it out is to say two English names together: "Annie" and "May", but if you really want to pronounce it well, you can either read through lesson one in our Japanese lessons, or try this: Each of the three syllables has an equal length, and is pronounced with a relatively clipped vowel at the end. "A-ni-me" has an "a" which is pronounced like the a in "father" (sort of "ahh"; not as nasal as a normal American English "a" but also not like "on"), "ni" which is like "knee" (but with a shorter "ee" on the end), and "me" which sounds like the beginning of "met" (with no "t" of course). Stick all three syllables together without pauses, and you have anime. Writing it with an French-style accent on the "e" is also occasionally done, and although this makes the correct pronunciation of the final "e" more clear, it isn\'t really correct since the word is technically Romanized Japanese, which has no accent marks.',
   },
   {
     id: 5,
-    title: 'When do I recieve a password ordered by letter?',
+    title: 'Why is there so much nudity even in kids shows?',
     info:
-      'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
+      'First of all, Japanese attitudes about nudity are far less strict than those in the US (and many other countries), and it is even legal to show some nudity on TV in Japan (actually, it is in the US now, too, but it has been there for quite a while, and it\'s not such a big deal). Since attitudes toward nudity are less strict in Japan, it\'s also not entirely uncommon to see nudity in anime, including shows targeted at children, though the context is rarely erotic in those situations. For example, there have been brief spots of nudity in the Dragonball TV series and the Sailor Moon series (edited out, unsurprisingly, for broadcast elsewhere) that may have caught the eye of older viewers, but were not considered inappropriate for younger ones.',
   },
 ];
 export default questions;

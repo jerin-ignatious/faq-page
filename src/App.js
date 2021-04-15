@@ -8,7 +8,7 @@ function App() {
   return (
     <main>
       <div className='container'> 
-        <h3>frequently asked questions</h3>
+        <h3>frequently asked questions about anime</h3>
         <section className='info'>
           {
             questions.map((question) => {
