@@ -1,8 +1,6 @@
-#### Idea taken from
+#### Demo Screen
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
-
-![](./idea.png);
+![](./output.png)
 
 #### React Icons
 
