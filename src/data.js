@@ -1,9 +1,9 @@
 const questions = [
   {
     id: 1,
-    title: 'Do I have to allow the use of cookes?',
+    title: 'What is Anime?',
     info:
-      'Unicorn vinyl poutine brooklyn, next level direct trade iceland. Shaman copper mug church-key coloring book, whatever poutine normcore fixie cred kickstarter post-ironic street art.',
+      'Anime is an English name for the style of art and animation developed by (but no longer exclusively produced by) the Japanese. The word "anime" is just the Japanese word for animation (of any kind), and it is pronounced "Annie-May" (both like the English names). Other occasionally used words are Japanimation, Japanime, and manga (which is the Japanese word for comic books and animation in general).',
   },
   {
     id: 2,
